@@ -1,0 +1,35 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 20.459rem;
+}.frame-9-29Q {
+  width: 100%;
+  height: 6.735rem;
+}
+.frame-9-29Q .group-13-z6E {
+  width: 100%;
+  height: 100%;
+  font-size: 2.5415rem;
+  font-weight: 700;
+  line-height: 1.255;
+  color: #000000;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #f6f2eb;
+  border-radius: 3.3675rem;
+}

@@ -1,0 +1,294 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 43.5rem;
+}.typing-qqC {
+  box-sizing: border-box;
+  padding: 2rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  row-gap: 2rem;
+  display: flex;
+  flex-direction: column;
+  border: dashed 0.1rem #9747ff;
+  border-radius: 0.5rem;
+}
+.typing-qqC .property-1default-x98 {
+  width: 3.5rem;
+  height: 7.8rem;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.typing-qqC .property-1default-x98 .mask-group-u4N {
+  width: 3.6rem;
+  height: 100%;
+  border-right: solid 0.1rem #000000;
+  box-sizing: border-box;
+}
+.typing-qqC .property-1default-x98 .mask-group-u4N .auto-group-9r18-4T4 {
+  width: 3.5rem;
+  height: 7.8rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+}
+.typing-qqC .property-1variant2-AW6 {
+  width: 6.7rem;
+  height: 7.8rem;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.typing-qqC .property-1variant2-AW6 .mask-group-7gE {
+  width: 6.8rem;
+  height: 100%;
+  border-right: solid 0.1rem #000000;
+  box-sizing: border-box;
+}
+.typing-qqC .property-1variant2-AW6 .mask-group-7gE .auto-group-g3ja-gUS {
+  width: 6.7rem;
+  height: 7.8rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+}
+.typing-qqC .property-1variant3-DUN {
+  width: 10.5rem;
+  height: 7.8rem;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.typing-qqC .property-1variant3-DUN .mask-group-xRx {
+  width: 10.6rem;
+  height: 100%;
+  border-right: solid 0.1rem #000000;
+  box-sizing: border-box;
+}
+.typing-qqC .property-1variant3-DUN .mask-group-xRx .auto-group-hnka-6YA {
+  width: 10.5rem;
+  height: 7.8rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+}
+.typing-qqC .property-1variant4-xKU {
+  width: 12.2rem;
+  height: 7.8rem;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.typing-qqC .property-1variant4-xKU .mask-group-WLz {
+  width: 12.3rem;
+  height: 100%;
+  border-right: solid 0.1rem #000000;
+  box-sizing: border-box;
+}
+.typing-qqC .property-1variant4-xKU .mask-group-WLz .auto-group-kzt2-4tJ {
+  width: 12.2rem;
+  height: 7.8rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+}
+.typing-qqC .property-1variant5-o5C {
+  width: 16rem;
+  height: 7.8rem;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.typing-qqC .property-1variant5-o5C .mask-group-whC {
+  width: 16.1rem;
+  height: 100%;
+  border-right: solid 0.1rem #000000;
+  box-sizing: border-box;
+}
+.typing-qqC .property-1variant5-o5C .mask-group-whC .auto-group-x1o8-VCv {
+  width: 16rem;
+  height: 7.8rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+}
+.typing-qqC .property-1variant6-coL {
+  width: 19.8rem;
+  height: 7.8rem;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.typing-qqC .property-1variant6-coL .mask-group-mw8 {
+  width: 19.9rem;
+  height: 100%;
+  border-right: solid 0.1rem #000000;
+  box-sizing: border-box;
+}
+.typing-qqC .property-1variant6-coL .mask-group-mw8 .auto-group-19sq-wai {
+  width: 19.8rem;
+  height: 7.8rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+}
+.typing-qqC .property-1variant7-Gst {
+  width: 23.4rem;
+  height: 7.8rem;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.typing-qqC .property-1variant7-Gst .mask-group-ocv {
+  width: 23.5rem;
+  height: 100%;
+  border-right: solid 0.1rem #000000;
+  box-sizing: border-box;
+}
+.typing-qqC .property-1variant7-Gst .mask-group-ocv .auto-group-whml-kHG {
+  width: 23.4rem;
+  height: 7.8rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+}
+.typing-qqC .property-1variant8-Uyx {
+  width: 19.8rem;
+  height: 7.8rem;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.typing-qqC .property-1variant8-Uyx .mask-group-drr {
+  width: 19.9rem;
+  height: 100%;
+  border-right: solid 0.1rem #000000;
+  box-sizing: border-box;
+}
+.typing-qqC .property-1variant8-Uyx .mask-group-drr .auto-group-ysee-oFY {
+  width: 19.8rem;
+  height: 7.8rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+}
+.typing-qqC .property-1variant9-7GE {
+  width: 16rem;
+  height: 7.8rem;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.typing-qqC .property-1variant9-7GE .mask-group-eGA {
+  width: 16.1rem;
+  height: 100%;
+  border-right: solid 0.1rem #000000;
+  box-sizing: border-box;
+}
+.typing-qqC .property-1variant9-7GE .mask-group-eGA .auto-group-4wbu-bx6 {
+  width: 16rem;
+  height: 7.8rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+}
+.typing-qqC .property-1variant10-jHc {
+  width: 12.3rem;
+  height: 7.8rem;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.typing-qqC .property-1variant10-jHc .mask-group-tAW {
+  width: 12.4rem;
+  height: 100%;
+  border-right: solid 0.1rem #000000;
+  box-sizing: border-box;
+}
+.typing-qqC .property-1variant10-jHc .mask-group-tAW .auto-group-du8z-qrS {
+  width: 12.3rem;
+  height: 7.8rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+}
+.typing-qqC .property-1variant11-Ykr {
+  width: 10.6rem;
+  height: 7.8rem;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.typing-qqC .property-1variant11-Ykr .mask-group-Gwk {
+  width: 10.7rem;
+  height: 100%;
+  border-right: solid 0.1rem #000000;
+  box-sizing: border-box;
+}
+.typing-qqC .property-1variant11-Ykr .mask-group-Gwk .auto-group-fmtg-SLS {
+  width: 10.6rem;
+  height: 7.8rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+}
+.typing-qqC .property-1variant12-AXL {
+  width: 6.9rem;
+  height: 7.8rem;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.typing-qqC .property-1variant12-AXL .mask-group-Wr6 {
+  width: 7rem;
+  height: 100%;
+  border-right: solid 0.1rem #000000;
+  box-sizing: border-box;
+}
+.typing-qqC .property-1variant12-AXL .mask-group-Wr6 .auto-group-dlbc-fU6 {
+  width: 6.9rem;
+  height: 7.8rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+}
+.typing-qqC .property-1variant13-o4W {
+  width: 3.5rem;
+  height: 7.8rem;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.typing-qqC .property-1variant13-o4W .mask-group-vup {
+  width: 3.6rem;
+  height: 100%;
+  border-right: solid 0.1rem #000000;
+  box-sizing: border-box;
+}
+.typing-qqC .property-1variant13-o4W .mask-group-vup .auto-group-nmgw-h9t {
+  width: 3.5rem;
+  height: 7.8rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+}
+.typing-qqC .property-1variant14-De2 {
+  width: 0.1rem;
+  height: 7.8rem;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.typing-qqC .property-1variant14-De2 .mask-group-91t {
+  width: 0.2rem;
+  height: 100%;
+  border-right: solid 0.1rem #000000;
+  box-sizing: border-box;
+}
+.typing-qqC .property-1variant14-De2 .mask-group-91t .auto-group-gdsg-hp6 {
+  width: 0.1rem;
+  height: 7.8rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+}
